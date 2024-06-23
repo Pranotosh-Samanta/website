@@ -1,0 +1,44 @@
+2024-06-21T13:13:32+00:00 ERROR Error getting data feed
+2024-06-21T13:13:32+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 7: Failed to connect to woocommerce.com port 443 after 2113 ms: Couldn't connect to server
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2024-06-21T13:13:32+00:00 ERROR Error getting data feed
+2024-06-21T13:13:32+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 6: Could not resolve host: woocommerce.com
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
